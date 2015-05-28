@@ -547,17 +547,23 @@
 
 	.sld_description{
 		font-family: 'Lato',sans-serif;
-		font-size:56px;
+		font-size:50px;
 		color: white;
 		margin-left: 5%;
 		margin-top:10%
 	}
-	.sld_sub_description{
+	.sld_sub_1{
 		font-family: 'Lato',sans-serif;
 		font-size:22px;
 		color: white;
 		margin-left: 5%;
 		margin-top:30px;
+	}
+	.sld_sub_2{
+		font-family: 'Lato',sans-serif;
+		font-size:22px;
+		color: white;
+		margin-left: 5%;
 	}
 	.text-widget p {
 		margin-bottom:15px;
