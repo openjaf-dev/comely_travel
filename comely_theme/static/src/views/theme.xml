@@ -13,6 +13,9 @@
             	<p class="sld_description">SaaS Travel Agencies</p>
 				<p class="sld_sub_1">Cloud solution to manage</p>
 				<p class="sld_sub_2">sales and invoicing for travel services</p>
+				<p> <a class="btn btn-info btn-lg" href="/web/signup">Start</a></p>
+           
+          
             </div>
           </div>
         </div>
@@ -25,20 +28,20 @@
         <div class="container">
           <div class="row mt16 mb16">
             <div class="col-md-4 text-center">
-              <span class="fa fa-suitcase fa-5x"></span>
+              <span class="fa fa-newspaper-o fa-5x"></span>
               <h3 class="mt8 mb0">Product Catalog</h3>
               <div class="text-muted">Manage catalog of tourist products</div>
               <div class="text-muted">Hotels, Cars, Transfers, Flights,</div>
                <div class="text-muted">Activities and Packages.</div>
             </div>
             <div class="col-md-4 text-center">
-              <span class="fa fa-lock fa-5x"></span>
+              <span class="fa fa-users fa-5x"></span>
               <h3 class="mt8 mb0">Supplier Contract</h3>
               <div class="text-muted">Control all contact data suppliers and customers</div>
               <div class="text-muted">working with the agency.</div>
             </div>
             <div class="col-md-4 text-center">
-              <span class="fa fa-heart fa-5x"></span>
+              <span class="fa fa-th-list fa-5x"></span>
               <h3 class="mt8 mb0">Customer Pricelist</h3>
               <div class="text-muted">A small explanation of this great</div>
               <div class="text-muted">feature, in clear words.</div>
@@ -46,20 +49,20 @@
           </div>
           <div class="row mt16 mb16">
             <div class="col-md-4 text-center">
-              <span class="fa fa-suitcase fa-5x"></span>
+              <span class="fa fa-list-alt fa-5x"></span>
               <h3 class="mt8 mb0">Booking System</h3>
               <div class="text-muted">Manage catalog of tourist products</div>
               <div class="text-muted">Hotels, Cars, Transfers, Flights,</div>
                <div class="text-muted">Activities and Packages.</div>
             </div>
             <div class="col-md-4 text-center">
-              <span class="fa fa-lock fa-5x"></span>
+              <span class="fa fa-usd fa-5x"></span>
               <h3 class="mt8 mb0">Invoicing Control</h3>
               <div class="text-muted">Control all contact data suppliers and customers</div>
               <div class="text-muted">working with the agency.</div>
             </div>
             <div class="col-md-4 text-center">
-              <span class="fa fa-heart fa-5x"></span>
+              <span class="fa fa-bar-chart fa-5x"></span>
               <h3 class="mt8 mb0">Dashboard and Reporting</h3>
               <div class="text-muted">A small explanation of this great</div>
               <div class="text-muted">feature, in clear words.</div>
@@ -145,7 +148,9 @@
             <div class="container">
                 <div class="col-lg-5 col-md-6 col-sm-12">
                     <div class="copyright-text">
-                        <p> 2015  - developed and                       
+                        <p> 
+                        	<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=6MJCW4KaeSVcKsCkeTz9pj7J0injcTOkK4OsPFSOuiBWZ3I7XguDMLSBgV1c"></script></span>
+                        	<span>2015  - developed and </span>                      
                             <a href="#">Designed by</a>                             
                             <a href="#">Comely</a>
                         </p>

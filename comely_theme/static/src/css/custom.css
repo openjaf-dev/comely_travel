@@ -392,7 +392,7 @@
 		border-radius: 03px;
 	}
 	#topbar,
-	#topbar a {
+	#topbar a {mesesitos mi chiquitin
 		color:#888888;
 	}
 	#topbar .social-icons span.last a {
@@ -475,6 +475,9 @@
 		width:40px;
 	}
 	#topbar .topmenu div.search .button .fa-search{font-size: 18px;}
+	.btn-info{
+		margin-left: 5%;
+	}
 
 /* ----------------------------------------------------
 	FOOTER STYLES
